@@ -6,7 +6,7 @@
 </head>
 <body>
 <div align="center">
-    <h1>Edit SmartPhone</h1>
+    <h1>Edit Product</h1>
     <form method="post">
         <table border="1">
             <caption>Add New Product</caption>

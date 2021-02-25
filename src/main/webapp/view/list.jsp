@@ -6,8 +6,8 @@
 </head>
 <body>
 <div style="text-align: center">
-    <h1>Lis SmartPhone</h1>
-    <h2><a href="/products?action=create">Create SmartPhone</a></h2>
+    <h1>List Product</h1>
+    <h2><a href="/products?action=create">Create Product</a></h2>
     <form action="/products?action=search" method="post">
         <input type="text" name="name" placeholder="Search">
         <input type="submit" value="Search">

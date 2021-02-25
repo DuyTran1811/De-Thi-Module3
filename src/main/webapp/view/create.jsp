@@ -6,11 +6,11 @@
 </head>
 <body>
 <div align="center">
-    <h1>Create SmartPhone</h1>
-    <h2><a href="/products?action=smartphones">List SmartPhone</a></h2>
+    <h1>Create Product</h1>
+    <h2><a href="/products?action=smartphones">List Product</a></h2>
     <form method="post">
         <table border="1">
-            <caption>Add New SmartPhone</caption>
+            <caption>Add New Product</caption>
             <tr>
                 <th>Name</th>
                 <td><input type="text" name="name"></td>
